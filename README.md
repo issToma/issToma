@@ -1,6 +1,6 @@
 # Valery Istomin
 
-Welcome to my GitHub profile! 👋 I'm a Python developer specializing in backend development, IT-infrastructure monitoring systems and process automation.
+Welcome to my GitHub profile! 👋 I'm a Python developer **specializing in backend development, IT-infrastructure monitoring systems and process automation**.
 
 I work with FastAPI, microservices and async. Right now I'm focused on LLMs and AI in applied tasks.
 
@@ -10,7 +10,7 @@ PhD candidate, working in computer vision.
 
 I dewarp camera-captured documents: a photo of a crumpled page becomes a flat copy that OCR can read.
 
-The method, the framework and an annotated dataset are in [DRCCBI](https://github.com/issToma/DRCCBI), described in the paper [arXiv:2501.03145](https://arxiv.org/abs/2501.03145).
+The method, the framework and an annotated dataset are in **[DRCCBI](https://github.com/issToma/DRCCBI)**, described in the paper [arXiv:2501.03145](https://arxiv.org/abs/2501.03145).
 
 ### 🛠 Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
