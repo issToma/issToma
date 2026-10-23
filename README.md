@@ -1,6 +1,6 @@
 # Valery Istomin
 
-Welcome to my GitHub profile! 👋 I'm a Python developer **specializing in backend development, IT-infrastructure monitoring systems and process automation**.
+Welcome to my GitHub profile! 👋 I'm a Python developer specializing in **backend development, IT-infrastructure monitoring systems and process automation**.
 
 I work with FastAPI, microservices and async. Right now I'm focused on LLMs and AI in applied tasks.
 
